@@ -37,7 +37,7 @@ REQUIRED_PACKAGES = [
     'protobuf >= 3.2.0',
     'werkzeug >= 0.11.10',
     'html5lib == 0.9999999',  # identical to 1.0b8
-    'markdown == 2.2.0',
+    'markdown == 3.8.1',
     'bleach == 1.5.0',
 ]
 
